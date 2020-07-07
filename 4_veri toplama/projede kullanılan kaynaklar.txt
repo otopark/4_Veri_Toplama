@@ -1,0 +1,20 @@
+Teknik Dökümanı oluştururken kullandığımız veriler:
+
+1.	https://office.live.com/start/excel.aspx?omkt=tr-TR (proje planı)
+2.	https://office.live.com/start/Word.aspx?omkt=tr-TR (teknik döküman)
+3.	https://office.live.com/start/PowerPoint.aspx?omkt=tr-TR(slaytlar)
+
+
+
+Birim testi yaparken kullandığımız kaynaklar
+
+
+
+
+
+Projeyi oluştururken kullandığımız kaynaklar:
+
+Projedeki use-case diyagramı oluştururken yardım aldığımız
+
+1.	http://www.yazilimcilardunyasi.com/2017/01/use-case-puan-use-case-points-ucp.html
+2.	https://creately.com/ (use-caseleri oluşturduğumuz program)
