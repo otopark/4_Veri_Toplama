@@ -1,0 +1,1 @@
+VERİ TOPLAMA
